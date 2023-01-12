@@ -1,2 +1,3 @@
-# counter-animation-logisticinfotech
-Created with CodeSandbox
+### `yarn install`
+
+### `yarn start`

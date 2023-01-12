@@ -1,0 +1,62 @@
+ [
+	{
+		"userID": "u-1",
+		"displayName": "Aidan Fahey",
+		"picture": "pic-1.jpg",
+		"score": 500
+	},
+	{
+		"userID": "u-2",
+		"displayName": "Larue Conn",
+		"picture": "pic-2.jpg",
+		"score": 1500
+	},
+	{
+		"userID": "u-3",
+		"displayName": "Orlando Aufderhar",
+		"picture": "pic-3.jpg",
+		"score": 2500
+	},
+	{
+		"userID": "u-4",
+		"displayName": "Ole Sanford",
+		"picture": "pic-4.jpg",
+		"score": 3500
+	},
+	{
+		"userID": "u-5",
+		"displayName": "Laurine Leannon",
+		"picture": "pic-5.jpg",
+		"score": 4500
+	},
+	{
+		"userID": "u-6",
+		"displayName": "Myrtice Kirlin",
+		"picture": "pic-6.jpg",
+		"score": 5500
+	},
+	{
+		"userID": "u-7",
+		"displayName": "Juvenal Koepp",
+		"picture": "pic-7.jpg",
+		"score": 6500
+	},
+	{
+		"userID": "u-8",
+		"displayName": "Lennie Reynolds",
+		"picture": "pic-8.jpg",
+		"score": 7500
+	},
+	{
+		"userID": "u-9",
+		"displayName": "Buck West",
+		"picture": "pic-9.jpg",
+		"score": 8500
+	},
+	{
+		"userID": "u-10",
+		"displayName": "Jorge Smith",
+		"picture": "pic-10.jpg",
+		"score": 9500
+	}
+]
